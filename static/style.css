@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    background-color: #ce9c37;
+}
+
+#paper{
+    margin-left: calc(45vw / 2);
+    margin-top: 100px;
+    outline: 3px #000000 solid;
+    width: 55vw;
+    background-color: #ffffff;
+}
