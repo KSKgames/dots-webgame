@@ -4,9 +4,8 @@ body{
 }
 
 #paper{
-    margin-left: calc(45vw / 2);
-    margin-top: 100px;
+    margin-left: calc(25vw / 2);
     outline: 3px #000000 solid;
-    width: 55vw;
+    width: 75vw;
     background-color: #ffffff;
 }
